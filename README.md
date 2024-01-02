@@ -1,7 +1,5 @@
 # GeoTES-SURF Project
 
-To do: The template should have the charter for projects in progress, but the project closeout report for completed projects.  Just one or the other.
-
 ### Summary
 
 
