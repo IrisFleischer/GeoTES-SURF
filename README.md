@@ -13,3 +13,4 @@
 - Looking for internal project management documents? Those are stored in this Google Drive folder. (TODO: Fill In)
 
 ### Additional Resources
+- [Google Drive folder](https://drive.google.com/drive/folders/1kpTAG7g1ssLVeWuSSPQ03HtcHmXAq-y9?usp=drive_link) (access required)
