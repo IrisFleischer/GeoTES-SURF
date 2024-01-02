@@ -14,3 +14,4 @@
 
 ### Additional Resources
 - [Google Drive folder](https://drive.google.com/drive/folders/1kpTAG7g1ssLVeWuSSPQ03HtcHmXAq-y9?usp=drive_link) (access required)
+- Slack channel: #geotes-project-development
