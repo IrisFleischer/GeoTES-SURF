@@ -23,7 +23,9 @@
 
 **In-Scope:**
 
-**Out-of-Scope:** Pilot testing
+**Out-of-Scope:** 
+- Pilot testing
+- Business plans
   
 # Project Team
 Project Sponsor:
