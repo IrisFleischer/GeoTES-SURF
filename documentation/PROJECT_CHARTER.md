@@ -13,6 +13,11 @@
 ## Benefits, Costs, and Budget
 
 **Benefits:**
+Project: 
+People: 
+- The student will get get valuable experience with a challenging and interesting project that tests and hones their skills in a practical setting. 
+Organization: 
+- Pilot of Orchid partnering with the SURF progam at CalTech
 
 **Costs:** 
 - ~$7000 (student)
