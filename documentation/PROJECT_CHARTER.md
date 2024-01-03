@@ -23,7 +23,7 @@
 
 **In-Scope:**
 
-**Out-of-Scope:**
+**Out-of-Scope:** Pilot testing
   
 # Project Team
 Project Sponsor:
