@@ -1,6 +1,7 @@
 # Project Charter 
 
 ## Executive Summary
+We want a SURF student to create a model for projected heat loss from subsurface oil reservoirs that have traditionally been used with thermal enhanced oil recovery.
 
 ## Project Goals
 
