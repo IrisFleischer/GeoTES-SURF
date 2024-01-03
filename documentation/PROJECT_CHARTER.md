@@ -14,7 +14,10 @@
 
 **Benefits:**
 
-**Costs:**
+**Costs:** 
+- ~$7000 (student)
+- ~$7000 (overhead)
+- Time
 
 **Budget needed:**
 
