@@ -13,9 +13,11 @@
 ## Benefits, Costs, and Budget
 
 **Benefits:**
-Project: 
+Project:
+- 
 People: 
-- The student will get get valuable experience with a challenging and interesting project that tests and hones their skills in a practical setting. 
+- The student will get get valuable experience with a challenging and interesting project that tests and hones their skills in a practical setting.
+- Develops Iris's project management skills
 Organization: 
 - Pilot of Orchid partnering with the SURF progam at CalTech
 
