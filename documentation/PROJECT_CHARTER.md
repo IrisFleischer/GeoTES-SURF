@@ -44,7 +44,7 @@ Project Sponsor:
 
 Product Owner:
 
-Project Lead:
+Project Lead: Iris F. 
 
 Project Development Team:
 
