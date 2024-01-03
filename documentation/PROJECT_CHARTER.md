@@ -38,4 +38,5 @@ Additional Stakeholders:
 
 
 # Measuring Success
-**What is acceptable:**
+**What is acceptable:** 
+- A SURF student presents on the GeoTES Project at the end of summer
