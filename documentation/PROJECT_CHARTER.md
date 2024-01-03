@@ -22,6 +22,7 @@
 # Scope and Exclusion
 
 **In-Scope:**
+- Making and presenting the model 
 
 **Out-of-Scope:** 
 - Pilot testing
