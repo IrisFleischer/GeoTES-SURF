@@ -14,7 +14,7 @@
 
 **Benefits:**
 Project:
-- 
+- Pave the way for cultivating interest and credibility for the GeoTES project, moving towards real-life application.
 People: 
 - The student will get get valuable experience with a challenging and interesting project that tests and hones their skills in a practical setting.
 - Develops Iris's project management skills
