@@ -4,7 +4,7 @@
 We want a SURF student to create a model for projected heat loss from subsurface oil reservoirs that have traditionally been used with thermal enhanced oil recovery.
 
 ### Status
-
+In Progress - Beginning initiation tasks
 
 ### General Information
 - Want to learn more about the project's scope and objectives? Check out the [project charter](documentation/PROJECT_CHARTER.md).
