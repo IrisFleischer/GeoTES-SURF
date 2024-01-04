@@ -40,7 +40,7 @@ We want a SURF student to create a model for projected heat loss from subsurface
 - Business plans
   
 # Project Team
-Project Sponsor:
+Project Sponsor: Riley Kwong
 
 Product Owner:
 
