@@ -9,11 +9,8 @@ We were in the initial phase of proposing this to the CalTech SURF program when 
 
 We are in contact with the researchers involved and our project is on hold until the results of their modeling have been completed. 
 
-### Summary
-We want a SURF student to create a model for projected heat loss from subsurface oil reservoirs that have traditionally been used with thermal enhanced oil recovery.
-
 ### Status
-In Progress - Beginning initiation tasks
+On Hold - Awaiting completion of modeling work 
 
 ### General Information
 - Want to learn more about the project's scope and objectives? Check out the [project charter](documentation/PROJECT_CHARTER.md).
