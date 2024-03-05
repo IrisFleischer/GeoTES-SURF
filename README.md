@@ -14,9 +14,9 @@ On Hold - Awaiting completion of modeling work
 
 ### General Information
 - Want to learn more about the project's scope and objectives? Check out the [project charter](documentation/PROJECT_CHARTER.md).
-- Want to review our progress? The developer guide is coming soon, but check out the [project board](https://github.com/orgs/orchid-initiative/projects/11)!
+- Want to review our progress? Check out the [project board](https://github.com/orgs/orchid-initiative/projects/11)!
 - Have any comments? Join the discussion on our GitHub Discussions page.
-- Looking for internal project management documents? Those are stored in this Google Drive folder. (TODO: Fill In)
+- Looking for internal project management documents? Those are stored in the [Google Drive folder](https://drive.google.com/drive/folders/1kpTAG7g1ssLVeWuSSPQ03HtcHmXAq-y9?usp=drive_link)(access required).
 
 ### Additional Resources
 - [Google Drive folder](https://drive.google.com/drive/folders/1kpTAG7g1ssLVeWuSSPQ03HtcHmXAq-y9?usp=drive_link) (access required)
