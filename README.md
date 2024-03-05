@@ -15,7 +15,7 @@ On Hold - Awaiting completion of modeling work
 ### General Information
 - Want to learn more about the project's scope and objectives? Check out the [project charter](documentation/PROJECT_CHARTER.md).
 - Want to review our progress? The developer guide is coming soon, but check out the [project board](https://github.com/orgs/orchid-initiative/projects/11)!
-- Have questions or feedback? Join the discussion on our GitHub Discussions page.  Or, you can use the GitHub issues page to report bugs and request new features.
+- Have any comments? Join the discussion on our GitHub Discussions page.
 - Looking for internal project management documents? Those are stored in this Google Drive folder. (TODO: Fill In)
 
 ### Additional Resources
